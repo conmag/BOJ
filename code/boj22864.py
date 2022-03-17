@@ -1,4 +1,4 @@
-#22864
+# https://www.acmicpc.net/source/40584622
 a, b, c, m = map(int, input().split())
 s = 0
 ans = 0
